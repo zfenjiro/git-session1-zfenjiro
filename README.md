@@ -67,4 +67,7 @@ git status
 
 
 !\[Project Banner](project-banner.svg)
+## Remote Update
+
+This line was added directly on GitHub to practice fetching and pulling remote changes.
 
