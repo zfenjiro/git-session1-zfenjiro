@@ -1,2 +1,1 @@
-Personal development notes.
-
+Practicing Git diff for Assignment 1.
